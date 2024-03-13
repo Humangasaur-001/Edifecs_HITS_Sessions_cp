@@ -1,1 +1,1 @@
-Basicaly github is a gui version for GIT
+Basicaly github is a gui version for GIT. It similarly helps in file manipulation and track changes
