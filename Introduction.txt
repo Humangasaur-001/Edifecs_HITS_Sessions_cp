@@ -1,2 +1,3 @@
 Basicaly github is a gui version for GIT. It similarly helps in file manipulation and track changes
-github also similarly work like git that is using add only principle and in future we can add or rollback as needed
+Github works on snapshots basis where every change is stored in form of snapshot that can help in easy roll back
+
