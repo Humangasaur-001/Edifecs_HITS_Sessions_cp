@@ -1,2 +1,2 @@
 Basicaly github is a gui version for GIT. It similarly helps in file manipulation and track changes
-THis also similarly work upon add only principle and in future we can add or rollback as needed
+github also similarly work like git that is using add only principle and in future we can add or rollback as needed
